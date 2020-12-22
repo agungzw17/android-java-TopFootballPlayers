@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2 Top 10 Football Player</string>
+    <string name="detail">Lihat lebih lanjut</string>
+    <string name="name">Nama Pemain</string>
+    <string name="about">About</string>
+    <string name="name_dicoding">Agung Wibowo</string>
+    <string name="email_dicoding">agungzwibowo7@gmail.com</string>
+    <string name="country">Negara</string>
+    <string name="club">Club</string>
+    <string name="rating">Rate</string>
+    <string name="description">Description</string>
+    <string name="point">.</string>
+</resources>
